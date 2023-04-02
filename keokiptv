@@ -1,23 +1,28 @@
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/98.png", K+ Sport2 (MyTV)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-id="klive1hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/251.png", K+ Live 1 HD (MyK+)
+#EXTVLCOPT:http-user-agent=VAgroup
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aGxJZNOGNL7KIhmoFWvYsA", "kid":"tDb77N2GTHC+6TU3J9P6Zw" } ], "type":"temporary" }
-http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dmp6prmr4QliOzzggkupjQ", "kid":"lyUbdnxAQ3GgzwzyX//fNg" },{ "kty":"oct", "k":"+TCOiAyPnaUkGdOp99iOjA", "kid":"32kbdnxAQ3GgzwzyX//fNg" },{ "kty":"oct", "k":"I9i6mGzMXKrjePDxNOH9Sw", "kid":"7G1fp3xAQ3GgzwzyX//fNg" },{ "kty":"oct", "k":"I9j2urVJm71OROxK4gRPsw", "kid":"2Hpfv8tAQ3GgzwzyX//fNg" } ], "type":"temporary" }
+https://vstv.broadpeak-aas.com/bpk-tv/prod_klive1/default/i.mpd
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/97.png", K+ Sport1 (MyTV)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-id="klive2hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/252.png", K+ Live 2 HD (MyK+)
+#EXTVLCOPT:http-user-agent=VAgroup 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eV90m7/umJnSBVDfbUV0Fg", "kid":"pldZ4QBKTnu2WasdoAKMeA" } ], "type":"temporary" }
-http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dDne6KZ62B+Zto18e/p50g", "kid":"QXSdPAX5TOyqmN8rMVrTCQ" } ], "type":"temporary" }
+https://vstv.broadpeak-aas.com/bpk-tv/prod_klive2/default/i.mpd
 
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/96.png", K+ Life (MyTV)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-id="klive3hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/253.png", K+ Live 3 HD (MyK+)
+#EXTVLCOPT:http-user-agent=VAgroup
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WkykZFUyaXCmD3+etZdjyA", "kid":"iMGTvc0yTNWrVl8edSo+ag" } ], "type":"temporary" }
-http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jhwqqk/xL0jngyEDMeCguQ", "kid":"jcHanGFdRuGVteyGkVB4hw" } ], "type":"temporary" }
+https://vstv.broadpeak-aas.com/bpk-tv/prod_klive3/default/i.mpd
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/95.png", K+ Cine (MyTV) 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/97.png", K+ Sport1 FHD (MyK+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fIzVbJIf6GC+F2syGmloOQ", "kid":"rHT6h1x/RfCGi4SDJVUXZQ" } ], "type":"temporary" }
-http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"FHzl9PDu5Ox6aw+tTwq5aA", "kid":"afHLEyIgqP/a/U+QUHDe4w" },{ "kty":"oct", "k":"1bymmG4iORa8ldNItdxueQ", "kid":"sTXLEyIgqP/a/U+QUHDe4w" },{ "kty":"oct", "k":"kqbDSGSMj5nBxZyOSS7uYw", "kid":"qkYPXHEgqP/a/U+QUHDe4w" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+https://vagroup.pw/code/mykplus/ksport1hd/manifest.mpd
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/98.png", K+ Sport2 FHD (MyK+)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xKzj7uL6RFt+1RRWJQNklA", "kid":"3wpUgQPqGRnkDnoyastNFw" },{ "kty":"oct", "k":"W0Hp+nRQc83SDUwyKpeowg", "kid":"J05UgQPqGRnkDnoyastNFw" },{ "kty":"oct", "k":"ESL2000fKIFE11IQR1KIow", "kid":"IF+YylLqGRnkDnoyastNFw" } ], "type":"temporary" }
+https://vagroup.pw/code/mykplus/ksport2hd/manifest.mpd

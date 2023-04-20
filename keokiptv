@@ -18,11 +18,26 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_klive3/default/i.mpd
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/97.png", K+ Sport1 FHD (MyK+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"FHzl9PDu5Ox6aw+tTwq5aA", "kid":"afHLEyIgqP/a/U+QUHDe4w" },{ "kty":"oct", "k":"1bymmG4iORa8ldNItdxueQ", "kid":"sTXLEyIgqP/a/U+QUHDe4w" },{ "kty":"oct", "k":"kqbDSGSMj5nBxZyOSS7uYw", "kid":"qkYPXHEgqP/a/U+QUHDe4w" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cMT8P1LsV8mYx9UrpGhxyA","kid":"Rtc+EJPMUVrccjhUIzLHsg"},{"kty":"oct","k":"oprKWXjlP53//wBv7AzrPg","kid":"jhs+EJPMUVrccjhUIzLHsg"},{"kty":"oct","k":"I/zuSjfbmu8iBjzSX22VtQ","kid":"mx+CQZPMUVrccjhUIzLHsg"},{"kty":"oct","k":"8OYERYbs8cSkTdE2nsmKkg","kid":"hyyCWeLMUVrccjhUIzLHsg"}], "type":"temporary"} 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 https://vagroup.pw/code/mykplus/ksport1hd/manifest.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/98.png", K+ Sport2 FHD (MyK+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xKzj7uL6RFt+1RRWJQNklA", "kid":"3wpUgQPqGRnkDnoyastNFw" },{ "kty":"oct", "k":"W0Hp+nRQc83SDUwyKpeowg", "kid":"J05UgQPqGRnkDnoyastNFw" },{ "kty":"oct", "k":"ESL2000fKIFE11IQR1KIow", "kid":"IF+YylLqGRnkDnoyastNFw" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LsO9Cba6DrKnz2qMi/sXEQ","kid":"jOvS12AAcnm6fhASjuAXPw"},{"kty":"oct","k":"b82tGnUnbWh0XepW4OvHWA","kid":"1C/S12AAcnm6fhASjuAXPw"},{"kty":"oct","k":"osyNA0FdVCAc/TbBzJ8XvA","kid":"4TMWCGAAcnm6fhASjuAXPw"},{"kty":"oct","k":"prdnRIQn5YnCTpcZEvA+MQ","kid":"zUAWIK8Acnm6fhASjuAXPw"}], "type":"temporary"} 
 https://vagroup.pw/code/mykplus/ksport2hd/manifest.mpd
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/95.png", K+ Cine (MyK+)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"SpSFiF0Uc2HcK+10znpwPA", "kid":"J7n23d+2HrxZAwHkofdoyg" },{ "kty":"oct", "k":"hEjmMTetRy++ePMPAy6VMg", "kid":"b/323d+2HrxZAwHkofdoyg" },{ "kty":"oct", "k":"rWkn156SsojBHZXyzm6VOg", "kid":"aA46Ji62HrxZAwHkofdoyg" } ], "type":"temporary" }
+https://vagroup.pw/code/mykplus/kcinehd/manifest.mpd
+
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/96.png", K+ Life (MyK+)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"t6lSbgtt5cVkPtblTQAnAA", "kid":"ICECiqNSIx30sw6kA8+G6A" },{ "kty":"oct", "k":"fQevZeg884zHVeUjD3f4cw", "kid":"aGUCiqNSIx30sw6kA8+G6A" },{ "kty":"oct", "k":"Agw4ccLO9t3H47cAWawfrg", "kid":"YXZG0/JSIx30sw6kA8+G6A" } ], "type":"temporary" }
+https://vagroup.pw/code/mykplus/klifehd/manifest.mpd
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="http://logo.vagroup.pw/188.png", K+ Kids FHD (MyK+)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Cca5THi5YcXZkxpTpSXM/Q","kid":"IzDHFWoMMn6tdaQ+tW9wsg"},{"kty":"oct","k":"TwSGBWtGi9+mBKrBFb3HYQ","kid":"a3THFWoMMn6tdaQ+tW9wsg"},{"kty":"oct","k":"8CNOYi1QS2USplCuTG0v7w","kid":"eHgLRmoMMn6tdaQ+tW9wsg"},{"kty":"oct","k":"GByWqGcBy2FrShkCnUgD6Q","kid":"ZIULXrkMMn6tdaQ+tW9wsg"}], "type":"temporary"} 
+https://vagroup.pw/code/mykplus/kkidshd/manifest.mpd

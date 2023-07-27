@@ -9,17 +9,17 @@ http://live-akm4.tv360.vn/manifest/K_PLUS_PM_SD/master.mpd?hdnts=exp=1690439904~
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/tiviba60/keysport2.php
 http://live-akm4.tv360.vn/manifest/K_PLUS_PC_SD/master.mpd?hdnts=exp=1690439753~acl=/*~hmac=cc28c466cfd51a43f2d65f914dbf4edb9d592ad8b03553d2810da8a49e3b77ce&manifestfilter=video_bitrate:1-3600000&uid=14803507
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/95.png", K+ Cine (MyK+)
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/95.png", K+ Cine SD (TV360)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"SpSFiF0Uc2HcK+10znpwPA", "kid":"J7n23d+2HrxZAwHkofdoyg" },{ "kty":"oct", "k":"hEjmMTetRy++ePMPAy6VMg", "kid":"b/323d+2HrxZAwHkofdoyg" },{ "kty":"oct", "k":"rWkn156SsojBHZXyzm6VOg", "kid":"aA46Ji62HrxZAwHkofdoyg" } ], "type":"temporary" }
-https://vagroup.pw/code/mykplus/kcinehd/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/tiviba60/keycine.php
+http://live-akm4.tv360.vn/manifest/K_PLUS_1_SD/master.mpd?hdnts=exp=1690440457~acl=/*~hmac=527acfef0a7b0b3fb77eb1bcff18aef208e84ec7cf508b91a1ae61f2ac1d3c0a&manifestfilter=video_bitrate:1-3600000&uid=14803507
 
-#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/96.png", K+ Life (MyK+)
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/96.png", K+ Life SD (TV360)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"t6lSbgtt5cVkPtblTQAnAA", "kid":"ICECiqNSIx30sw6kA8+G6A" },{ "kty":"oct", "k":"fQevZeg884zHVeUjD3f4cw", "kid":"aGUCiqNSIx30sw6kA8+G6A" },{ "kty":"oct", "k":"Agw4ccLO9t3H47cAWawfrg", "kid":"YXZG0/JSIx30sw6kA8+G6A" } ], "type":"temporary" }
-https://vagroup.pw/code/mykplus/klifehd/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/tiviba60/keylife.php
+http://live-akm4.tv360.vn/manifest/K_PLUS_NS_SD/master.mpd?hdnts=exp=1690440435~acl=/*~hmac=f0d84be851cabc1118c6a1a9fea8dbd364010c57a3ced06d023e6c6414345407&manifestfilter=video_bitrate:1-3600000&uid=14803507
 
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="http://logo.vagroup.pw/188.png", K+ Kids FHD (MyK+)
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="http://logo.vagroup.pw/188.png", K+ Kids SD (TV360)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Cca5THi5YcXZkxpTpSXM/Q","kid":"IzDHFWoMMn6tdaQ+tW9wsg"},{"kty":"oct","k":"TwSGBWtGi9+mBKrBFb3HYQ","kid":"a3THFWoMMn6tdaQ+tW9wsg"},{"kty":"oct","k":"8CNOYi1QS2USplCuTG0v7w","kid":"eHgLRmoMMn6tdaQ+tW9wsg"},{"kty":"oct","k":"GByWqGcBy2FrShkCnUgD6Q","kid":"ZIULXrkMMn6tdaQ+tW9wsg"}], "type":"temporary"} 
-https://vagroup.pw/code/mykplus/kkidshd/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/tiviba60/keykids.php 
+http://live-akm4.tv360.vn/manifest/K_PLUS_KID_SD/master.mpd?hdnts=exp=1690440400~acl=/*~hmac=f099200e91a70f9590d4daa17dc833975c50fc4a159a34a462950f91164a47c9&manifestfilter=video_bitrate:1-3600000&uid=14803507

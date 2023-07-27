@@ -2,24 +2,25 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/tiviba60/keysport1.php
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-http://live-akm4.tv360.vn/manifest/K_PLUS_PM_SD/master.mpd?hdnts=exp=1690439904~acl=/*~hmac=4b45d860e0e9e56eaabe00add13d007a694fcb1a032a569e2727d38b8a6facb2&manifestfilter=video_bitrate:1-3600000&uid=14803507
+https://tiemnhazunn.click/tv360/tv360.php?id=230
+
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/98.png", K+ Sport2 SD (TV360)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/tiviba60/keysport2.php
-http://live-akm4.tv360.vn/manifest/K_PLUS_PC_SD/master.mpd?hdnts=exp=1690439753~acl=/*~hmac=cc28c466cfd51a43f2d65f914dbf4edb9d592ad8b03553d2810da8a49e3b77ce&manifestfilter=video_bitrate:1-3600000&uid=14803507
+https://tiemnhazunn.click/tv360/tv360.php?id=231
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/95.png", K+ Cine SD (TV360)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/tiviba60/keycine.php
-http://live-akm4.tv360.vn/manifest/K_PLUS_1_SD/master.mpd?hdnts=exp=1690440457~acl=/*~hmac=527acfef0a7b0b3fb77eb1bcff18aef208e84ec7cf508b91a1ae61f2ac1d3c0a&manifestfilter=video_bitrate:1-3600000&uid=14803507
+https://tiemnhazunn.click/tv360/tv360.php?id=229
 
 #EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/96.png", K+ Life SD (TV360)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/tiviba60/keylife.php
-http://live-akm4.tv360.vn/manifest/K_PLUS_NS_SD/master.mpd?hdnts=exp=1690440435~acl=/*~hmac=f0d84be851cabc1118c6a1a9fea8dbd364010c57a3ced06d023e6c6414345407&manifestfilter=video_bitrate:1-3600000&uid=14803507
+https://tiemnhazunn.click/tv360/tv360.php?id=228
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="http://logo.vagroup.pw/188.png", K+ Kids SD (TV360)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/tiviba60/keykids.php 
-http://live-akm4.tv360.vn/manifest/K_PLUS_KID_SD/master.mpd?hdnts=exp=1690440400~acl=/*~hmac=f099200e91a70f9590d4daa17dc833975c50fc4a159a34a462950f91164a47c9&manifestfilter=video_bitrate:1-3600000&uid=14803507
+https://tiemnhazunn.click/tv360/tv360.php?id=307

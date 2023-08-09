@@ -1,8 +1,7 @@
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/97.png", K+ Sport1 SD (TV360)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/tiviba60/keysport1.php
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"u4GEybmb3QNLB3QGOfe55g", "kid":"9EfJwrdqSQOzaQtwr/3gWw" } ], "type":"temporary" }
 https://tiemnhazunn.click/tv360/tv360k.php?id=230
 
 
